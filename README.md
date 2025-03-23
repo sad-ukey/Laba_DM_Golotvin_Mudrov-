@@ -2,6 +2,8 @@
             Telegram Task Planner Bot
 ========================================
 
+Ссылка на бота: https://t.me/task_manager_Data_Managment_bot
+
 Описание:
 ------------
 Telegram Task Planner Bot – это многофункциональный бот для Telegram, 
